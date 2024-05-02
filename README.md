@@ -1,3 +1,2 @@
 
-
-[Project link](https://github.com/Aidan-Zamfir/Library-App.git)
+<h1 align="left">Aidan</h1>

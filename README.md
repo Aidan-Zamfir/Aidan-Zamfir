@@ -19,9 +19,9 @@ Software Developer
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </div>
 
-<hr>
 
 <h2>Current & Future Learning</h2>
+
 <div>
   <img aling="left" alt="Go" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />  
   <img aling="left" alt="Bash" width="30px" style="padding-right:10px;" 

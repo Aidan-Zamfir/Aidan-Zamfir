@@ -19,6 +19,7 @@ Software Developer
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </div>
 
+<hr>
 
 <h2>Current & Future Learning</h2>
 <div>

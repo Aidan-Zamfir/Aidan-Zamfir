@@ -23,6 +23,5 @@
 </div>
 
 #
-<details>
-    <summary><h3>Background</h3></summary>
-        <p>test</p>
+
+

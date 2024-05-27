@@ -26,6 +26,5 @@
 </div>
 
 #
-![Aidan-Zamfir's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aidan-Zamfir&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
-
+![Aidan-Zamfir's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aidan-Zamfir&theme=react&show_icons=true&hide_border=true&layout=compact)
 

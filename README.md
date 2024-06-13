@@ -1,4 +1,4 @@
-**`Software Developer | Backend & Scripting`**
+**`Software Developer `**
 
 <h3>Languages & Tools </h3>
 

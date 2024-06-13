@@ -1,4 +1,4 @@
-**`Software Developer `**
+**` Software Developer `**
 
 <h3>Languages & Tools </h3>
 
